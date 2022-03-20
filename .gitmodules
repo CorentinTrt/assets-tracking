@@ -1,0 +1,3 @@
+[submodule "assets-tracking-api"]
+	path = assets-tracking-api
+	url = https://github.com/CorTrt/assets-tracking-api
