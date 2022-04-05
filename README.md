@@ -22,24 +22,24 @@ This is the main folder of Asset Tracking Application. You will find the others 
 # Versions (details)
 ## 1.0.0 (I'm currently working on it. There is no scheduled date for release)
 ### Basic user features
-- Create a user
-- Manage user's sessions with JWT (create or delete session based on user-agent)
+- Create a user [x]
+- Manage user's sessions with JWT (create or delete session based on user-agent) [x]
 ### Basic assets / exchanges features
-- Handle all major crypto currencies
-- The application will be plug to the Crypto Watch API to collect currencies data
-- Handle all major exchanges
+- Handle all major crypto currencies [ ]
+- The application will be plug to the Crypto Watch API to collect currencies data [ ]
+- Handle all major exchanges [ ]
 ### Transactions (deposit / withdrawals)
-- Create transactions
-- Visualize user's transactions
-- Filtering transactions (by exchanges / types)
+- Create transactions [x]
+- Visualize user's transactions [x]
+- Filtering transactions (by exchanges / types) [ ]
 ### Orders
-- Create orders
-- Visualize user's orders
-- Filtering orders (by asset)
-- Simulate order to check ROI
+- Create orders [x]
+- Visualize user's orders [ ]
+- Filtering orders (by asset) [ ]
+- Simulate order to check ROI [ ]
 ### Wallet 
-- Visualize values (in USD / BTC) (% of each asset compare to total weight of wallet)
-- Filtering by exchange
+- Visualize values (in USD / BTC) (% of each asset compare to total weight of wallet) [ ]
+- Filtering by exchange [ ]
 
 ## 1.1.0
 ### Documentation
